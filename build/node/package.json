@@ -18,7 +18,7 @@
     "express-graphql": "^0.5.4",
     "express-jwt": "^5.1.0",
     "graphql": "^0.7.2",
-    "graphql-relay": "^0.4.3",
+    "graphql-relay": "^0.6.0",
     "graphql-sequelize": "^4.0.2",
     "multer": "^1.2.0",
     "mysql": "github:mysqljs/mysql",
