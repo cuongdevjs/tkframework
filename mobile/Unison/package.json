@@ -7,7 +7,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"react": "~15.4.1",
+		"react": "~16.5.0",
 		"react-native": "0.42.3",
 		"react-native-pspdfkit": "github:PSPDFKit/react-native"
 	},
