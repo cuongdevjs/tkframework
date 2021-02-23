@@ -155,7 +155,7 @@
     "react-router": "^2.8.1",
     "react-router-redux": "^4.0.6",
     "react-router-relay": "^0.13.5",
-    "react-tag-input": "^4.4.0",
+    "react-tag-input": "^6.4.1",
     "react-tap-event-plugin": "^2.0.1",
     "react-virtualized": "^8.4.1",
     "redux": "^3.6.0",
