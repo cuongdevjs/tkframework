@@ -122,7 +122,7 @@
     "draft-js-prism": "^1.0.3",
     "es6-promise": "^4.0.5",
     "express-graphql": "^0.5.4",
-    "express-jwt": "^5.1.0",
+    "express-jwt": "^6.1.2",
     "fcm-push": "^1.1.2",
     "fs-extra": "^1.0.0",
     "graphql": "^0.7.2",
