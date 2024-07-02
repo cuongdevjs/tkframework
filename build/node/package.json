@@ -16,7 +16,7 @@
     "bindings": "^1.2.1",
     "express": "^4.14.0",
     "express-graphql": "^0.5.4",
-    "express-jwt": "^5.1.0",
+    "express-jwt": "^7.0.0",
     "graphql": "^0.7.2",
     "graphql-relay": "^0.4.3",
     "graphql-sequelize": "^4.0.2",
