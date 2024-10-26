@@ -127,7 +127,7 @@
     "fs-extra": "^1.0.0",
     "graphql": "^0.7.2",
     "graphql-relay": "^0.4.3",
-    "graphql-sequelize": "^4.0.2",
+    "graphql-sequelize": "^6.0.0",
     "install": "^0.8.2",
     "isomorphic-fetch": "^2.2.1",
     "jsonwebtoken": "^7.1.9",
