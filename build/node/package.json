@@ -20,7 +20,7 @@
     "graphql": "^0.7.2",
     "graphql-relay": "^0.4.3",
     "graphql-sequelize": "^4.0.2",
-    "multer": "^1.2.0",
+    "multer": "^2.0.0",
     "mysql": "github:mysqljs/mysql",
     "sequelize": "^3.25.0",
     "isomorphic-fetch": "^2.2.1"
